@@ -1,4 +1,4 @@
-#File IO: Star Trek Universal Translator
+# File IO: Star Trek Universal Translator
 California State Univeristy, Long Beach</br>
 Professor Mimi Opkins</br>
 Fall 2017</br>
